@@ -1,0 +1,4 @@
+vosk_models
+transcription.txt
+*.mp4
+*.wav
